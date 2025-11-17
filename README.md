@@ -1,5 +1,5 @@
 <!-- Banner placeholder — replace the URL below with your own banner image -->
-![Banner](https://raw.githubusercontent.com/egemback/egemback/main/assets/20250306_144652.jpg)
+![Banner](https://raw.githubusercontent.com/egemback/egemback/main/20250306_144652.jpg)
 
 # Elias Gembäck  
 **Software Engineer & AI Integration Specialist | Financial Mathematics MSc | Industrial Engineering & Management**
@@ -30,13 +30,6 @@ In addition to my degree education, I have pursued computer science studies at *
 2. **AI Integration** — embedding ML into business workflows, model deployment, automation  
 3. **Financial Mathematics** — quantitative modeling, risk analysis, data-driven financial solutions  
 4. **Process Automation** — enterprise automation, workflow optimization, digital transformation  
-
----
-
-## GitHub Stats
-
-![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=egemback&show_icons=true&count_private=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=egemback&layout=compact&theme=default)
 
 ---
 
