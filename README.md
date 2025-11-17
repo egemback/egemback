@@ -1,7 +1,9 @@
 <!-- Banner placeholder — replace the URL below with your own banner image -->
-![Banner](https://raw.githubusercontent.com/egemback/egemback/main/20250306_144652.jpg)
 
-# Elias Gembäck  
+![Banner](assets/20250306_144652.jpg)
+
+# Elias Gembäck
+
 **Software Engineer & AI Integration Specialist | Financial Mathematics MSc | Industrial Engineering & Management**
 
 ---
@@ -16,30 +18,29 @@ In addition to my degree education, I have pursued computer science studies at *
 
 ## Technical Skills
 
-- **Languages:** Python, Java, TypeScript  
-- **Frameworks & Libraries:** Angular, FastAPI, Node.js, Pandas / NumPy / SciPy  
-- **Cloud & Infrastructure:** Azure, GitHub (Actions)  
-- **Data & AI:** SQL, Power BI  
-- **Process Automation:** Power Automate  
+- **Languages:** Python, Java, TypeScript
+- **Frameworks & Libraries:** Angular, FastAPI, Node.js, Pandas / NumPy / SciPy
+- **Cloud & Infrastructure:** Azure, GitHub (Actions)
+- **Data & AI:** SQL, Power BI
+- **Process Automation:** Power Automate
 
 ---
 
 ## Areas of Expertise
 
-1. **Software Engineering** — full-stack development, clean architecture, backend & frontend  
-2. **AI Integration** — embedding ML into business workflows, model deployment, automation  
-3. **Financial Mathematics** — quantitative modeling, risk analysis, data-driven financial solutions  
-4. **Process Automation** — enterprise automation, workflow optimization, digital transformation  
+1. **Software Engineering** — full-stack development, clean architecture, backend & frontend
+2. **AI Integration** — embedding ML into business workflows, model deployment, automation
+3. **Financial Mathematics** — quantitative modeling, risk analysis, data-driven financial solutions
+4. **Process Automation** — enterprise automation, workflow optimization, digital transformation
 
 ---
 
 ## Contact
 
-- **LinkedIn:** [Elias Gembäck](https://www.linkedin.com/in/elias-gemb%C3%A4ck-3866b3247/)  
+- **LinkedIn:** [Elias Gembäck](https://www.linkedin.com/in/elias-gemb%C3%A4ck-3866b3247/)
 - **Email:** elias.gemback@gmail.com
 
 ---
-
 
 <!--
 **egemback/egemback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
