@@ -18,11 +18,11 @@ In addition to my degree education, I have pursued computer science studies at *
 
 ## Technical Skills
 
-- **Languages:** Python, Java, TypeScript
-- **Frameworks & Libraries:** Angular, FastAPI, Node.js, Pandas / NumPy / SciPy
-- **Cloud & Infrastructure:** Azure, GitHub (Actions)
-- **Data & AI:** SQL, Power BI
-- **Process Automation:** Power Automate
+- **AI & Advanced Automation:** LangGraph, LangChain, AI Agents, RAG Architecture, OpenAI API, Power Automate, Harvey (LegalTech)
+- **Languages:** Python, TypeScript/JavaScript, Java, SQL, MATLAB, R, HTML/CSS, LaTeX
+- **Frameworks & Frontend:** Angular, FastAPI, Node.js, Pandas, NumPy, SciPy
+- **Cloud, Tools & Infra:** Azure Cloud, Power BI, Git, GitHub Actions, Linux/Unix
+
 
 ---
 
@@ -39,20 +39,3 @@ In addition to my degree education, I have pursued computer science studies at *
 
 - **LinkedIn:** [Elias Gembäck](https://www.linkedin.com/in/elias-gemb%C3%A4ck-3866b3247/)
 - **Email:** elias.gemback@gmail.com
-
----
-
-<!--
-**egemback/egemback** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
